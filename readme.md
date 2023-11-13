@@ -1,5 +1,13 @@
 # aleapitests 
 
+## como crear el proyecto
+
+```sh
+$ git init 
+$ npm init 
+$ npm i cypress --save-dev 
+$ npx cypress open
+```
 
 ## como ejecutar
 
